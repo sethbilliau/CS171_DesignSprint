@@ -1,2 +1,2 @@
-# CS171_DesignSprint1
-CS171 DesignSprint1
+# CS171_DesignSprint
+CS171 DesignSprint
